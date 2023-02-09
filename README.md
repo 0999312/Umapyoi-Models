@@ -21,6 +21,7 @@
 作者署名会填写至感谢列表当中。若你有意加入开发组，请与[射命丸政](https://twitter.com/SyameimaruZheng)联系。  
 可使用QQ联系：617510630。请说明来意。  
 提交Pull Request代表你允许本Mod将模型以CC BY-NC-SA 4.0协议使用。  
+官方的未完成模型在模型完成后会在版本发布后12小时内删除，社区提交的模型会保留。  
 
 ## 协议
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。  
