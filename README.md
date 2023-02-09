@@ -1,10 +1,10 @@
 # 马儿蹦跳模型需求仓库
 ## 介绍
 欢迎来到马儿蹦跳Mod的模型需求仓库！  
-这里存放着马儿蹦跳Mod的（需要求助的）未完成模型/他人贡献模型以及由马儿蹦跳开发组推荐的模型教程与建模规范。  
+这里存放着马儿蹦跳Mod的（需要求助的）未完成模型/社区贡献模型以及由马儿蹦跳开发组推荐的模型教程与建模规范。  
 
 ## 目录  
-[未完成模型](https://github.com/0999312/Umapyoi-Models/tree/main/models)  
+[模型包](https://github.com/0999312/Umapyoi-Models/tree/main/models)  
 [模型制作教程](https://github.com/0999312/Umapyoi-Models/wiki/BlockBench%E6%95%99%E7%A8%8B%E6%8E%A8%E8%8D%90)  
 [建模规范](https://github.com/0999312/Umapyoi-Models/wiki/%E5%BB%BA%E6%A8%A1%E8%A7%84%E8%8C%83%E4%B8%8E%E5%BB%BA%E8%AE%AE)  
 [骨骼表](https://github.com/0999312/Umapyoi-Models/wiki/%E9%AA%A8%E9%AA%BC%E8%A1%A8)  
